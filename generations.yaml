@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Veracruz"
+
+generations:
+  - name: "First Generation (EN)"
+    start_year: 2007
+    end_year: 2015
+    description: "A three-row crossover with the 3.8 L Lambda V6 and 3.0 L diesel."
