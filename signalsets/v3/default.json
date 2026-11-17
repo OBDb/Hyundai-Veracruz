@@ -46,7 +46,7 @@
 { "hdr": "770", "rax": "778", "dbg": true, "cmd": {"22": "BC05"}, "freq": 1, "filter": { "from": 2014 },
   "signals": [
     {"id": "VERACRUZ_HAZARD_SW", "path": "Lights", "fmt": {"bix": 32, "len": 8, "max": 255,                             "unit": "scalar" }, "name": "Hazard switch"},
-    {"id": "VERACRUZ_HL_SW",     "path": "Lights", "fmt": {"bix": 48, "len": 8, "max": 1,   "nullmin": 0, "nullmax": 2, "unit": "noyes"  }, "name": "Headlight switch"}
+    {"id": "VERACRUZ_HL_SW",     "path": "Lights", "fmt": {"bix": 48, "len": 8, "max": 2,   "nullmin": 0, "nullmax": 2, "unit": "noyes"  }, "name": "Headlight switch"}
   ]},
 { "hdr": "770", "rax": "778", "dbg": true, "cmd": {"22": "BC06"}, "freq": 0.25,
   "signals": [
